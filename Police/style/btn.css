@@ -1,0 +1,21 @@
+﻿body {
+}
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 5px 15px;
+  font-size: 15px;
+  cursor: pointer;
+}
+/* Red */
+.btn {
+  border-color: #680000;
+  color: #680000;
+  
+}
+
+.btn:hover {
+  background: #680000;
+  color: white;
+}
